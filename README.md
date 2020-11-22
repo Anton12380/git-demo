@@ -13,4 +13,4 @@ Thanks for your attention.
 
 Спасибо за внимание.
 
-new text
+new text on remote
